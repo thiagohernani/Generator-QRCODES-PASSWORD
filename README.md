@@ -1,4 +1,4 @@
-<h1>QR Code Generator & Secure Password Terminal</h1>
+<h1>QR Code Generator & Secure Password Terminal.</h1>
 
 Este é um projeto Node.js que utiliza as seguintes bibliotecas:
 
